@@ -1,4 +1,4 @@
-//Write a program to enter to metro city name and his fahrenhit temp then convert into celsious temp and finally print metro city name amd celsious temp ?
+//Write a program to enter to metro city name and his fahrenheit temp then convert into celsious temp and finally print metro city name amd celsious temp ?
 #include<stdio.h>
 
 void main(){
